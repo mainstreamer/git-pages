@@ -1,0 +1,9 @@
+body {
+    background: url("../img/background.jpeg");
+}
+
+.card {
+    width: 300px;
+    margin: 5px;
+    float: left;
+}
